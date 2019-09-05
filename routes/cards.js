@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 
-router.get('/cards', (req, res) => {
+router.get('/', (req, res) => {
   res.render('card', { prompt: "Who is buried in Grant's Tomb?"});
 });
 
