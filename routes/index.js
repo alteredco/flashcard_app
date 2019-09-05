@@ -17,10 +17,20 @@ router.get('/hello', (req, res)=> {
   }else {
     res.render('hello')
   }
+});
+
+router.post('/hello', (req, res) => {
+  res.cookie('username', req.body.username)
+  res.redirect('/')
+});
+
+router.post('/goodbye', (req, res) => {
+  res.clearCookie('username')
+  res.redirect('/hello')
 })
 
 router.get('/goodbye', (req, res)=>{
      res.render('bye')
-})
+});
 
 module.exports = router;

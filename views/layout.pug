@@ -4,5 +4,8 @@ html(lang="en")
     title Flash Cards
   body
     include includes/header.pug
+    if name
+      h2 Welcome and Hello, #{name}!
+      include includes/goodbye.pug
     block content
     include includes/footer.pug
