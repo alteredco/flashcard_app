@@ -1,7 +1,5 @@
-extends layout.pug
+extends app.pug
 
-block content
-    section#content
-      p Are you ready for a flash quiz?
-      p
-       a(href='/cards') Let's Go!
+block intro
+  h1.namecard-prompt Are you ready for a flash quiz?
+  a.namecard-submit(href='/cards') Let's Go!
