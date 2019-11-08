@@ -1,31 +1,171 @@
 {
   "data": {
-    "title": "JavaScript Flashcards",
+    "title": "CAPM Flashcards",
     "cards": [
       {
-        "question": "What language are Express apps written in?",
-        "hint": "It starts with a \"J\"",
-        "answer": "JavaScript"
+        "question": "What is A Guide to the Project Management Body of Knowledge (PMBOK Guide)?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The PMI publication that defines widely accepted project management practices.The CAPM and the PMP exam are based on this book."
       },
       {
-        "question": "What is one way a website can store data in a user's browser?",
-        "hint": "They are delicious with milk",
-        "answer": "Cookies"
+        "question": "What are application areas?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The areas of expertise, industry, or function where a project is centered. Examples of application areas include architecture, IT, health care, and manufacturing."
       },
       {
-        "question": "What is a common way to shorten the response object's name inside middleware?",
-        "hint": "It has the same abbreviation as \"resolution\"",
-        "answer": "res"
+        "question": "What is business value?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A quantifiable return on investment. The return can be tangible, such as equipment, money, or market share. The return can also be intangible, such as brand recognition, trademarks, and reputation."
       },
       {
-        "question": "How many different values can booleans have?",
-        "hint": "Think: binary",
-        "answer": "2"
+        "question": "Who is a Certified Associate in Project Management (CAPM)?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A person who has slightly less project management experience than a PMP, but who has qualified for and then passed the CAPM examination."
       },
       {
-        "question": "Which HTML element can contain JavaScript?",
-        "hint": "It starts with an \"s\"",
-        "answer": "<script>"
+        "question": "What does cultural and social environment define and what does it include?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "It defines how a project affects people and how those people may affect the project. Cultural and social environments include the economic, educational, ethical, religious, demographic, and ethnic composition of the people affected by the project."
+      },
+      {
+        "question": "What is a deliverable?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A product, service, or result created by a project. Projects can have multiple deliverables."
+      },
+      {
+        "question": "What do general management skills include?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "These include the application of accounting, procurement, sales and marketing, contracting, manufacturing, logistics, strategic planning, human resource management, standards and regulations, and information technology."
+      },
+      {
+        "question": "What is the international and political environment?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The consideration of the local and international laws, languages, communication challenges, time zone differences, and other non-collocated  issues that affect a project’s ability to progress."
+      },
+      {
+        "question": "What are interpersonal skills?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The ability to interact, lead, motivate and manage people."
+      },
+      {
+        "question": "What is the Iron Triangle of Project Management?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A triangle with the characteristics of time, cost, and scope. Time, cost, and scope each constitute one side of the triangle; if any side of the Iron Triangle is not in balance with the other sides, the project will suffer. The Iron Triangle of Project Management is also known as the Triple Constraints of Project Management, as all projects are constrained by time, cost, and scope."
+      },
+      {
+        "question": "What is the physical environment?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The physical structure and surroundings that affect a project’s work."
+      },
+      {
+        "question": "What are process groups, how many are there and what are they?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A collection of related processes in project management. There are five process groups and 49 project management processes. The five process groups are Initiating, Planning, Executing, Monitoring and Controlling, and Closing."
+      },
+      {
+        "question": "What is a program?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A collection of related projects working in unison toward a common deliverable."
+      },
+      {
+        "question": "What is progressive elaboration?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The process of gathering project details. This process uses deductive reasoning, logic, and a series of information gathering techniques to identify details about a project, product, or solution."
+      },
+      {
+        "question": "What is a project?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A temporary endeavor to create a unique product, service, or result. The end result of a project is also called a deliverable."
+      },
+      {
+        "question": "What is a project benefits management plan?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A documented created and maintained by the project sponsor and the project manager. The project benefits management plan defines what benefits the project will create, when the benefits will be realized, and how the benefits will be measured."
+      },
+      {
+        "question": "What is a project business case?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "Created and maintained by the project sponsor and shows the financial validity of why a project is chartered and launched within the organization. Typically, the project business case is created before the launch of the project and may be used as a go/no-go decision point."
+      },
+      {
+        "question": "What is a project environment?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The location and culture of the environment where the project work will reside. The project environment includes the social, economic, and environmental variables the project must work with or around."
+      },
+      {
+        "question": "What is the Project Management Institute (PMI)?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "An organization of project management professionals from around the world, supporting and promoting the careers, values, and concerns of project managers."
+      },
+      {
+        "question": "What is the project life cycle?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The phases that make up the project. Project life cycles are unique to the type of work being performed and are not universal to all projects."
+      },
+      {
+        "question": "What is the project management office (PMO)?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A central office that oversees all projects within an organization or within a functional department. A PMO supports the project manager through software,  training, templates, policies, communication, dispute resolution, and other services."
+      },
+      {
+        "question": "What is a Project Management Professional (PMP)?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A person who has proven project management experience and has qualified for and then passed the PMP examination."
+      },
+      {
+        "question": "What is project portfolio management?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "The management and selection of projects that support an organization’s vision and mission. It is the balance of project priority, risk,reward, and return on investment. This is a senior management process."
+      },
+      {
+        "question": "What are subprojects?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "A smaller project managed within a larger, parent project. Subprojects are often contracted work whose deliverable allows the larger project to progress. "
+      },
+      {
+        "question": "What are the Triple Constraints of Project Management?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "Also known as the Iron Triangle. This theory posits that time, cost, and scope are three constraints that every project has."
+      },
+      {
+        "question": "What is work performance data and where is it stored?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "Raw data, observations, and measurements about project components. Work performance data is gathered and stored in the project management information system."
+      },
+      {
+        "question": "What is work performance information?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "Work performance information is the processed and analyzed data that will help the project manager make project  decisions."
+      },
+      {
+        "question": "What are work performance reports?",
+        "hint": "Project Management Fundamental Terms",
+        "answer": "Work performance reports is the formatted communication of work performance information. Work performance reports communicate what’s happening in the project through status reports, memos,dashboards, or other modalities."
+      },
+      {
+        "question": "What is a balanced matrix structure?",
+        "hint": "Project Management Environments",
+        "answer": "An organizational model where organizational resources are pooled into one project team, but the functional managers and the project managers share the project power."
+      },
+      {
+        "question": "What are cultural norms?",
+        "hint": "Project Management Environments",
+        "answer": "Cultural norms describe the culture and the styles of an organization. Cultural norms, such as work ethics, hours, view of authority, and shared values, can affect how the project is managed. "
+      },
+      {
+        "question": "What are enterprise environmental factors?",
+        "hint": "Project Management Environments",
+        "answer": "Conditions that affect how the project manager may manage the project. Enterprise environmental factors come from within the project, such as a policy, or they may be external to the organization, such as a law or regulation. "
+      },
+      {
+        "question": "What is functional structure?",
+        "hint": "Project Management Environments",
+        "answer": "An organizational model that is divided into functions, and each employee has one clear functional manager. Each department acts independently of the other departments. A project manager in this structure has little to no power and may be called a project coordinator. "
+      },
+      {
+        "question": "What is a governance framework?",
+        "hint": "Project Management Environments",
+        "answer": "Governance framework describes the rules, policies, and procedures that people within an organization abide by. Governance framework addresses the organization, but also address portfolios, programs, and projects. Regarding portfolios, programs, and projects the governance framework addresses alignment with organizational vision, risk management, performance factors, and communication."
       }
     ]
   }
