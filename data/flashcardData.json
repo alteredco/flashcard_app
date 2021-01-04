@@ -1,46 +1,46 @@
 {
   "data": {
-    "title": "CAPM Flashcards",
+    "title": "TOGAF Flashcards",
     "cards": [
       {
-        "question": "What is A Guide to the Project Management Body of Knowledge (PMBOK Guide)?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "The PMI publication that defines widely accepted project management practices.The CAPM and the PMP exam are based on this book."
+        "question": "Which of the BDAT domains deals with defining the current and future capabilities of a business?",
+        "hint": "Business, Data, Application, Technology",
+        "answer": "This is defined in business architecture."
       },
       {
-        "question": "What are application areas?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "The areas of expertise, industry, or function where a project is centered. Examples of application areas include architecture, IT, health care, and manufacturing."
+        "question": "Which of the BDAT domains deals with defining the current and future structure and interaction of the enterprise's major types and sources of data?",
+        "hint": "Business, Data, Application, Technology",
+        "answer": "This is defined in the Data Domain."
       },
       {
-        "question": "What is business value?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "A quantifiable return on investment. The return can be tangible, such as equipment, money, or market share. The return can also be intangible, such as brand recognition, trademarks, and reputation."
+        "question": "Which of the BDAT domains deals with defining the current and future structure and interaction of the applications as groups of capabilities that provide key business functions?",
+        "hint": "Business, Data, Application, Technology",
+        "answer": "This is defined in the Application Domain."
       },
       {
-        "question": "Who is a Certified Associate in Project Management (CAPM)?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "A person who has slightly less project management experience than a PMP, but who has qualified for and then passed the CAPM examination."
+        "question": "Which of the BDAT domains deals with defining the current and future structure and interaction of the technology services and technology components?",
+        "hint": "Business, Data, Application, Technology",
+        "answer": "This is defined in the Technology Domain."
       },
       {
-        "question": "What does cultural and social environment define and what does it include?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "It defines how a project affects people and how those people may affect the project. Cultural and social environments include the economic, educational, ethical, religious, demographic, and ethnic composition of the people affected by the project."
+        "question": "What is the acronym that represents the four core architecture domains as defined in TOGAF 9.2?",
+        "hint": "...",
+        "answer": "BDAT - Business, Data, Application, Technology"
       },
       {
-        "question": "What is a deliverable?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "A product, service, or result created by a project. Projects can have multiple deliverables."
+        "question": "What kind of things go into your architecture repository?",
+        "hint": "The kitchen sink",
+        "answer": "The architecture repository is an organized collection of almost all architectural work products."
       },
       {
-        "question": "What do general management skills include?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "These include the application of accounting, procurement, sales and marketing, contracting, manufacturing, logistics, strategic planning, human resource management, standards and regulations, and information technology."
+        "question": "The enterprise continuum is....",
+        "hint": "Not related to TNG or Q",
+        "answer": "... a method of classifying architectural work products according to their specificity, from extremely generic to extremely specific."
       },
       {
-        "question": "What is the international and political environment?",
-        "hint": "Project Management Fundamental Terms",
-        "answer": "The consideration of the local and international laws, languages, communication challenges, time zone differences, and other non-collocated  issues that affect a project’s ability to progress."
+        "question": "What is an example of architecture capability?",
+        "hint": "How you grow your capability",
+        "answer": "Architecture capability is the ability of your organization to do architecture work. Training, architecture repositories, governance all support that."
       },
       {
         "question": "What are interpersonal skills?",
